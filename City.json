@@ -1,0 +1,2725 @@
+{
+"results" : [
+
+  {
+    "objectId": "wEaJN9RzA7",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.85301,
+      "longitude": 35.1987
+    },
+    "cityId": 293426,
+    "name": "Tamra",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 25917,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "Vo8brcwLaA",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.01667,
+      "longitude": 35.26667
+    },
+    "cityId": 293420,
+    "name": "maalot Tarshīhā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 21400,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "8xZXS3sCNg",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.96465,
+      "longitude": 35.496
+    },
+    "cityId": 293100,
+    "name": "Safed",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 27816,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "n71FORI8VR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.03317,
+      "longitude": 34.89091
+    },
+    "cityId": 293207,
+    "name": "Yehud",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 25600,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "eTsA9W6Y1H",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 30.98822,
+      "longitude": 34.93176
+    },
+    "cityId": 293203,
+    "name": "Yeroẖam",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 8631,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "cuwFOOvI1y",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.24995,
+      "longitude": 34.91737
+    },
+    "cityId": 293354,
+    "name": "Tel Mond",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8725,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "vqrW50Bddf",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.79221,
+      "longitude": 35.53124
+    },
+    "cityId": 293322,
+    "name": "Tiberias",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 39790,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "MvFtF7kQeV",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.76021,
+      "longitude": 34.97183
+    },
+    "cityId": 293308,
+    "name": "Tirat Karmel",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 18993,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "ZGzQ1qvRMv",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.51725,
+      "longitude": 35.15349
+    },
+    "cityId": 293286,
+    "name": "Umm el Faḥm",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 41030,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "0D7ZXCmNsb",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.05043,
+      "longitude": 34.75224
+    },
+    "cityId": 293253,
+    "name": "Jaffa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLX",
+    "adminCode": "05",
+    "population": 100000,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "5E9Ipw6CVQ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.08088,
+      "longitude": 34.78057
+    },
+    "cityId": 293397,
+    "name": "Tel Aviv",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "05",
+    "population": 432892,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "uJo2RUEHA8",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.89385,
+      "longitude": 35.01504
+    },
+    "cityId": 282926,
+    "name": "Modi‘in Makkabbim Re‘ut",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 88749,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "jYrghEkAXe",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.71912,
+      "longitude": 35.09708
+    },
+    "cityId": 293020,
+    "name": "Ẕur Hadassa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 4700,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "BIHU8oDzcR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.70302,
+      "longitude": 35.22359
+    },
+    "cityId": 293310,
+    "name": "Timrat",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1789,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "Tw2CTQF8Ue",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.79212,
+      "longitude": 35.32984
+    },
+    "cityId": 293273,
+    "name": "‘Uzeir",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2591,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "WFjTtSyVoR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.29819,
+      "longitude": 34.91313
+    },
+    "cityId": 293014,
+    "name": "Ẕur Moshe",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2400,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "wwQdUDzhI2",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.82754,
+      "longitude": 35.13093
+    },
+    "cityId": 282582,
+    "name": "Har Adar",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "STLMT",
+    "adminCode": "06",
+    "population": 3300,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "9IDKW7bkV5",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.76904,
+      "longitude": 35.21633
+    },
+    "cityId": 281184,
+    "name": "Jerusalem",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "06",
+    "population": 801000,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "GmBlwVVKHu",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.87808,
+      "longitude": 34.73983
+    },
+    "cityId": 293222,
+    "name": "Yavné",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 31774,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "LOdq8oWjjJ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.70619,
+      "longitude": 35.50435
+    },
+    "cityId": 293220,
+    "name": "Yavne’el",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2900,
+    "createdAt": "2019-12-13T00:55:15.913Z",
+    "updatedAt": "2019-12-13T00:55:15.913Z"
+  },
+  {
+    "objectId": "k8H6Ll2kIw",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.86422,
+      "longitude": 35.29707
+    },
+    "cityId": 293655,
+    "name": "Sakhnīn",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 24596,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "nu1M2LSsZs",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.04966,
+      "longitude": 34.8777
+    },
+    "cityId": 293633,
+    "name": "Savyon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 3434,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "vv5lBK8mPk",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.07216,
+      "longitude": 35.14452
+    },
+    "cityId": 293522,
+    "name": "Shelomi",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 5608,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "2ghN1lAFC4",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.525,
+      "longitude": 34.59693
+    },
+    "cityId": 293619,
+    "name": "Sederot",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 20228,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "4hDLGVyeUn",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.60606,
+      "longitude": 35.33408
+    },
+    "cityId": 293449,
+    "name": "Sūlam",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2426,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "fgtRcv3mLo",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.97102,
+      "longitude": 34.78939
+    },
+    "cityId": 293703,
+    "name": "Rishon LeẔiyyon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 220492,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "fghAhcUKPN",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.09556,
+      "longitude": 34.95664
+    },
+    "cityId": 293690,
+    "name": "Rosh Ha‘Ayin",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 39215,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "eyQcJqkhBv",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.74907,
+      "longitude": 35.09901
+    },
+    "cityId": 293721,
+    "name": "Rekhasim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 10682,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "nca6ABnTXX",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.96894,
+      "longitude": 35.54258
+    },
+    "cityId": 293688,
+    "name": "Rosh Pinna",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2492,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "b0vH5O4Xn7",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.94266,
+      "longitude": 35.34136
+    },
+    "cityId": 293657,
+    "name": "Sājūr",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 3547,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "9jlmpYJD4J",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.92923,
+      "longitude": 34.86563
+    },
+    "cityId": 293768,
+    "name": "Ramla",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "02",
+    "population": 63860,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "LhHjUkRVPW",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.89421,
+      "longitude": 34.81199
+    },
+    "cityId": 293725,
+    "name": "Reẖovot",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 132671,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "7KhSrpHU2A",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.14613,
+      "longitude": 34.8394
+    },
+    "cityId": 293783,
+    "name": "Ramat HaSharon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 36137,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "tO4dWKYyRu",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.08227,
+      "longitude": 34.81065
+    },
+    "cityId": 293788,
+    "name": "Ramat Gan",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 128095,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "2lkmxMQgjP",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.70444,
+      "longitude": 35.1707
+    },
+    "cityId": 293773,
+    "name": "Ramat Yishay",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 5431,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "u2wYmqvLDs",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.83706,
+      "longitude": 35.0776
+    },
+    "cityId": 293831,
+    "name": "Qiryat Moẕqin",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 39404,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "j8X28tyvFW",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.20733,
+      "longitude": 35.57212
+    },
+    "cityId": 293825,
+    "name": "Qiryat Shemona",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 22035,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "5AkNcrONDQ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.84966,
+      "longitude": 35.06973
+    },
+    "cityId": 293822,
+    "name": "Qiryat Yam",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 39273,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "cRY9gakhpd",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.60998,
+      "longitude": 34.76422
+    },
+    "cityId": 293842,
+    "name": "Qiryat Gat",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 47450,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "0KXXixUWHb",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.1836,
+      "longitude": 34.87386
+    },
+    "cityId": 293807,
+    "name": "Ra'anana",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 80000,
+    "createdAt": "2019-12-13T00:55:17.137Z",
+    "updatedAt": "2019-12-13T00:55:17.137Z"
+  },
+  {
+    "objectId": "6gkslCAGpm",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.28493,
+      "longitude": 34.98106
+    },
+    "cityId": 293896,
+    "name": "Qalansuwa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 16898,
+    "createdAt": "2019-12-13T00:55:17.873Z",
+    "updatedAt": "2019-12-13T00:55:17.873Z"
+  },
+  {
+    "objectId": "qgjEXEmQ6U",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.63063,
+      "longitude": 35.34885
+    },
+    "cityId": 294089,
+    "name": "Nein",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1588,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "c0P5ltoTvG",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.3147,
+      "longitude": 34.89617
+    },
+    "cityId": 294003,
+    "name": "Nordiyya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2264,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "uJeelXMTfm",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 30.60944,
+      "longitude": 34.80111
+    },
+    "cityId": 294166,
+    "name": "Mitzpe Ramon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 4769,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "igqnC55cvE",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.30577,
+      "longitude": 34.90911
+    },
+    "cityId": 293942,
+    "name": "Pardesiyya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 6254,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "0NrlHvBtSZ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.8275,
+      "longitude": 35.08583
+    },
+    "cityId": 293844,
+    "name": "Qiryat Bialik",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 36551,
+    "createdAt": "2019-12-13T00:55:17.873Z",
+    "updatedAt": "2019-12-13T00:55:17.873Z"
+  },
+  {
+    "objectId": "sPHF7E0nF8",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.08707,
+      "longitude": 34.88747
+    },
+    "cityId": 293918,
+    "name": "Petaẖ Tiqwa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 200000,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "iHGhkOkfcT",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.81149,
+      "longitude": 35.11323
+    },
+    "cityId": 293845,
+    "name": "Qiryat Ata",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 48966,
+    "createdAt": "2019-12-13T00:55:17.873Z",
+    "updatedAt": "2019-12-13T00:55:17.873Z"
+  },
+  {
+    "objectId": "CcIDZH8pXj",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.33291,
+      "longitude": 34.85992
+    },
+    "cityId": 294071,
+    "name": "Netanya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 171676,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "QAsf7WnIEB",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.02923,
+      "longitude": 34.85788
+    },
+    "cityId": 293962,
+    "name": "Or Yehuda",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 30802,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "DHrhPjltXo",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.42305,
+      "longitude": 34.58911
+    },
+    "cityId": 294068,
+    "name": "Netivot",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 24564,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "4OhNGMEZqp",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.3141,
+      "longitude": 34.62025
+    },
+    "cityId": 293992,
+    "name": "Ofaqim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 24311,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "tp4xG5F72x",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.06012,
+      "longitude": 34.91069
+    },
+    "cityId": 294093,
+    "name": "Neẖalim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2061,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "vA1fgRRWvb",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.76622,
+      "longitude": 35.04425
+    },
+    "cityId": 294078,
+    "name": "Nesher",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 21245,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "CUpmn5bZgD",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.92933,
+      "longitude": 34.79868
+    },
+    "cityId": 294074,
+    "name": "Ness Ziona",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 38700,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "T4PMLexHIp",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.69925,
+      "longitude": 35.30483
+    },
+    "cityId": 294098,
+    "name": "Nazareth",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "03",
+    "population": 64800,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "f0Ek2vP1QZ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.93444,
+      "longitude": 35.31679
+    },
+    "cityId": 294114,
+    "name": "Naḥf",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 10105,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "HkyGMm6QN6",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.02781,
+      "longitude": 35.25658
+    },
+    "cityId": 294205,
+    "name": "Mi‘ilyā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLX",
+    "adminCode": "03",
+    "population": 2700,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "XZGXxhztNC",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.00892,
+      "longitude": 35.09814
+    },
+    "cityId": 294117,
+    "name": "Nahariyya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 51200,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "QeW0ZBn4EK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.67597,
+      "longitude": 35.23986
+    },
+    "cityId": 294210,
+    "name": "Migdal Ha‘Emeq",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 24800,
+    "createdAt": "2019-12-13T00:55:17.874Z",
+    "updatedAt": "2019-12-13T00:55:17.874Z"
+  },
+  {
+    "objectId": "HTDzdJoeXF",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.9467,
+      "longitude": 34.8903
+    },
+    "cityId": 294421,
+    "name": "Lod",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 66589,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "ZItj1SSQwz",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.18529,
+      "longitude": 34.82082
+    },
+    "cityId": 294508,
+    "name": "Kefar Shemaryahu",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 1774,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "bLt7LAPaFe",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.91708,
+      "longitude": 35.30501
+    },
+    "cityId": 294577,
+    "name": "Karmi’el",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 44382,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "6HowAe1wv3",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.7466,
+      "longitude": 35.34242
+    },
+    "cityId": 294610,
+    "name": "Kafr Kannā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 17606,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "2XkFarKF9G",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.88984,
+      "longitude": 35.40703
+    },
+    "cityId": 294387,
+    "name": "Maghār",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 18915,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "YQoEfgwSfK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.27918,
+      "longitude": 35.5795
+    },
+    "cityId": 294247,
+    "name": "Metulla",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1466,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "uHtYiS0Nj3",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.80186,
+      "longitude": 35.15072
+    },
+    "cityId": 294245,
+    "name": "Mevasseret Ẕiyyon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 24409,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "GPVfrEZsvt",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.85357,
+      "longitude": 34.84646
+    },
+    "cityId": 294303,
+    "name": "Mazkeret Batya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 8034,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "woPVgCrj09",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.31669,
+      "longitude": 34.93507
+    },
+    "cityId": 294492,
+    "name": "Kefar Yona",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 21611,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "3zrqYxF4y1",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.68655,
+      "longitude": 35.42118
+    },
+    "cityId": 294502,
+    "name": "Kefar Tavor",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2323,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "KDZDyXdGZP",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.175,
+      "longitude": 34.90694
+    },
+    "cityId": 294514,
+    "name": "Kfar Saba",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 80773,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "su6BE5EAuU",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.08607,
+      "longitude": 35.11348
+    },
+    "cityId": 294517,
+    "name": "Kefar Rosh HaNiqra",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1143,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "VXXfdPgEDd",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.95451,
+      "longitude": 35.1623
+    },
+    "cityId": 294600,
+    "name": "Kafir Yasif",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 8308,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "iUX21TTGye",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.83155,
+      "longitude": 35.24848
+    },
+    "cityId": 294571,
+    "name": "Kaukab Abū el Hījā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2800,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "mEIvrDDE66",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.11406,
+      "longitude": 34.97624
+    },
+    "cityId": 294604,
+    "name": "Kafr Qāsim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 17303,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "VNE8h0kZlR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.98793,
+      "longitude": 34.8516
+    },
+    "cityId": 294545,
+    "name": "Kefar H̱abad",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 4771,
+    "createdAt": "2019-12-13T00:55:18.647Z",
+    "updatedAt": "2019-12-13T00:55:18.647Z"
+  },
+  {
+    "objectId": "YcQ7EFWFdn",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.86856,
+      "longitude": 35.21171
+    },
+    "cityId": 294615,
+    "name": "Kābūl",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 9497,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "OYTE7LruAW",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.64521,
+      "longitude": 35.42147
+    },
+    "cityId": 294607,
+    "name": "Kafr Miṣr",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2400,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "TQFX12Yqef",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.72129,
+      "longitude": 35.44122
+    },
+    "cityId": 294611,
+    "name": "Kafr Kammā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2990,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "ktLVofudFY",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.81034,
+      "longitude": 35.26009
+    },
+    "cityId": 294608,
+    "name": "Kafr Mandā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 15014,
+    "createdAt": "2019-12-13T00:55:18.648Z",
+    "updatedAt": "2019-12-13T00:55:18.648Z"
+  },
+  {
+    "objectId": "Z0lDCXUcR0",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.1547,
+      "longitude": 34.95372
+    },
+    "cityId": 294634,
+    "name": "Jaljūlya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7505,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "tEqvdzMQBd",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.78737,
+      "longitude": 34.70659
+    },
+    "cityId": 295080,
+    "name": "Gan Yavne",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 22453,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "iAF7brcfQX",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.81841,
+      "longitude": 34.9885
+    },
+    "cityId": 294801,
+    "name": "Haifa",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "04",
+    "population": 267300,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "xqxaTIPchR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.26616,
+      "longitude": 35.00893
+    },
+    "cityId": 295130,
+    "name": "Eṭ Ṭaiyiba",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 32978,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "n5u2S2LhTO",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.9282,
+      "longitude": 35.15705
+    },
+    "cityId": 294622,
+    "name": "Judeida Makr",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 17530,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "ZuF4sqpXqO",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.68164,
+      "longitude": 35.32365
+    },
+    "cityId": 294658,
+    "name": "Iksāl",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 11398,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "SijKKXtshg",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.02216,
+      "longitude": 35.44694
+    },
+    "cityId": 294627,
+    "name": "Jīsh",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2684,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "RXMSDKAzDy",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.7615,
+      "longitude": 35.11402
+    },
+    "cityId": 294661,
+    "name": "Ibṭīn",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 2020,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "MazwOuBmIU",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.44192,
+      "longitude": 34.9039
+    },
+    "cityId": 294946,
+    "name": "Hadera",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 75854,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "AfxvPJUgaZ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.01034,
+      "longitude": 34.77918
+    },
+    "cityId": 294751,
+    "name": "H̱olon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 165787,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "OcyxuXWMwk",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.15934,
+      "longitude": 34.8932
+    },
+    "cityId": 294760,
+    "name": "Hod HaSharon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 43185,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "AQOcrdD9gk",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.01711,
+      "longitude": 35.34835
+    },
+    "cityId": 294666,
+    "name": "Ḥurfeish",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 5308,
+    "createdAt": "2019-12-13T00:55:19.524Z",
+    "updatedAt": "2019-12-13T00:55:19.524Z"
+  },
+  {
+    "objectId": "q57FQpBIeS",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.16627,
+      "longitude": 34.82536
+    },
+    "cityId": 294778,
+    "name": "Herzliya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 83600,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "bw9XgIbwz4",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.07225,
+      "longitude": 34.81253
+    },
+    "cityId": 294999,
+    "name": "Givatayim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 48000,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "bSSdgIgcV6",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.81456,
+      "longitude": 34.77998
+    },
+    "cityId": 295064,
+    "name": "Gedera",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 26217,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "HdRfBgg4yu",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.07817,
+      "longitude": 34.84858
+    },
+    "cityId": 294981,
+    "name": "Giv'at Shmuel",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 18500,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "bltqym6oZ6",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.05971,
+      "longitude": 34.8732
+    },
+    "cityId": 295089,
+    "name": "Ganei Tikva",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 16053,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "ZHsEsOBHo0",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.2341,
+      "longitude": 34.95023
+    },
+    "cityId": 295127,
+    "name": "Tirah",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 20786,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "aOYxEe9i3z",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.26959,
+      "longitude": 34.88759
+    },
+    "cityId": 295122,
+    "name": "Even Yehuda",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 15221,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "tuyTGdkUUz",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 33.04895,
+      "longitude": 35.30893
+    },
+    "cityId": 295104,
+    "name": "Pasuta",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2985,
+    "createdAt": "2019-12-13T00:55:19.525Z",
+    "updatedAt": "2019-12-13T00:55:19.525Z"
+  },
+  {
+    "objectId": "pO7s06xBgB",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.72339,
+      "longitude": 35.31622
+    },
+    "cityId": 295174,
+    "name": "Er Reina",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 15621,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "l5d5iqC9YN",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.40793,
+      "longitude": 34.92433
+    },
+    "cityId": 295232,
+    "name": "Elyakhin",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2728,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "nHDMUMOCyW",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.98338,
+      "longitude": 35.09837
+    },
+    "cityId": 295249,
+    "name": "El Mazra‘a",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 3900,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "40a7PD6sDu",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.9941,
+      "longitude": 35.14805
+    },
+    "cityId": 295157,
+    "name": "Esh Sheikh Dannūn",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 2305,
+    "createdAt": "2019-12-13T00:55:20.639Z",
+    "updatedAt": "2019-12-13T00:55:20.639Z"
+  },
+  {
+    "objectId": "qsjPoXMwg9",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.19941,
+      "longitude": 35.36253
+    },
+    "cityId": 295224,
+    "name": "‘En Boqeq",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 1400,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "82HUvFe5EH",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.59812,
+      "longitude": 34.95153
+    },
+    "cityId": 295269,
+    "name": "El Fureidīs",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 9999,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "DIceuCxqwK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.86196,
+      "longitude": 35.36365
+    },
+    "cityId": 295339,
+    "name": "Deir Ḥannā",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 8417,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "8FyEnFmXwN",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 29.55805,
+      "longitude": 34.94821
+    },
+    "cityId": 295277,
+    "name": "Eilat",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 45588,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "KBgHta5thE",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.73072,
+      "longitude": 34.99293
+    },
+    "cityId": 295432,
+    "name": "Bet Shemesh",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 67100,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "ukT13LQj4R",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.80636,
+      "longitude": 35.36486
+    },
+    "cityId": 295380,
+    "name": "Bu‘eina",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 7900,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "Xdyjj1teu0",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.83693,
+      "longitude": 35.40029
+    },
+    "cityId": 295291,
+    "name": "‘Eilabun",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 4400,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "mYbOlnpS7W",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.07079,
+      "longitude": 35.03269
+    },
+    "cityId": 295328,
+    "name": "Dimona",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 33558,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "cfhWi0ZyM1",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.97747,
+      "longitude": 35.33345
+    },
+    "cityId": 295379,
+    "name": "Buqei‘a",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 5200,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "IaYxxyl6Sl",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.69256,
+      "longitude": 35.37123
+    },
+    "cityId": 295370,
+    "name": "Dabbūrīya",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 8305,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "HNNBjyNiwy",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.49728,
+      "longitude": 35.49632
+    },
+    "cityId": 295435,
+    "name": "Bet She’an",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 16800,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "8RdZ4LTD7A",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.77732,
+      "longitude": 35.22069
+    },
+    "cityId": 295404,
+    "name": "Bīr el Maksūr",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 7106,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "WxpUw9eeCQ",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.69383,
+      "longitude": 35.04686
+    },
+    "cityId": 295365,
+    "name": "Daliyat al Karmel",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 25000,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "KKNVNyGUJ3",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.32751,
+      "longitude": 34.88878
+    },
+    "cityId": 295424,
+    "name": "Bet Yiẕẖaq",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1674,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "TaoEngnUvp",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.00191,
+      "longitude": 34.82977
+    },
+    "cityId": 295475,
+    "name": "Bet Dagan",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7099,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "WcVaWt28E9",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.08074,
+      "longitude": 34.8338
+    },
+    "cityId": 295514,
+    "name": "Bnei Brak",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 154400,
+    "createdAt": "2019-12-13T00:55:20.640Z",
+    "updatedAt": "2019-12-13T00:55:20.640Z"
+  },
+  {
+    "objectId": "baDOKzPSg1",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.78333,
+      "longitude": 34.75
+    },
+    "cityId": 295515,
+    "name": "Bnei Ayish",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 7920,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "nSh0AQI4Al",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.96464,
+      "longitude": 35.38152
+    },
+    "cityId": 295523,
+    "name": "Beit Jann",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 10002,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "OC9A9qkGvl",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.02379,
+      "longitude": 34.75185
+    },
+    "cityId": 295548,
+    "name": "Bat Yam",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 128979,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "kxtkAcz3Jc",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.25181,
+      "longitude": 34.7913
+    },
+    "cityId": 295530,
+    "name": "Beersheba",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLA",
+    "adminCode": "01",
+    "population": 186600,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "5KRT4lyxAa",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.73898,
+      "longitude": 35.15716
+    },
+    "cityId": 295553,
+    "name": "Basmat Ṭab‘ūn",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 6300,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "Oa1ZsucBYC",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.0243,
+      "longitude": 34.80632
+    },
+    "cityId": 295584,
+    "name": "Azor",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 16201,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "AgVya3u6Tj",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.92814,
+      "longitude": 35.07647
+    },
+    "cityId": 295721,
+    "name": "Acre",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 45603,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "YKp55G2pNM",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.99385,
+      "longitude": 35.27793
+    },
+    "cityId": 386445,
+    "name": "Kefar Weradim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 5608,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "vDH4yMDWCm",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.51888,
+      "longitude": 34.90459
+    },
+    "cityId": 7117228,
+    "name": "Cesarea",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 4500,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "prRXTLCKn7",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.80592,
+      "longitude": 35.1093
+    },
+    "cityId": 295772,
+    "name": "Abū Ghaush",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 5707,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "7KFb7ykBfA",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.69464,
+      "longitude": 35.39252
+    },
+    "cityId": 386042,
+    "name": "Shibli",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 4800,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "vYjnb1dlxL",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.37284,
+      "longitude": 34.81619
+    },
+    "cityId": 6693244,
+    "name": "Lehavim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 6000,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "Og5OuOYYQK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.79213,
+      "longitude": 34.64966
+    },
+    "cityId": 295629,
+    "name": "Ashdod",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 224656,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "oNfi2Gr9Iq",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.77802,
+      "longitude": 35.30571
+    },
+    "cityId": 386194,
+    "name": "Rumat Heib",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1588,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "dtQZDJRqNq",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.25882,
+      "longitude": 35.21282
+    },
+    "cityId": 295657,
+    "name": "Arad",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 23700,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "d96rjZbwNq",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 30.85154,
+      "longitude": 34.7834
+    },
+    "cityId": 6929924,
+    "name": "Midreshet Ben-Gurion",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 1100,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "EqIKHVNGIK",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.68889,
+      "longitude": 34.94236
+    },
+    "cityId": 295613,
+    "name": "Atlit",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "04",
+    "population": 4500,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "ZgLeoYOuTT",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.60907,
+      "longitude": 35.2892
+    },
+    "cityId": 295740,
+    "name": "Afula",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 44930,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "NpJOgrRhGC",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.89443,
+      "longitude": 35.36931
+    },
+    "cityId": 386253,
+    "name": "Sallama",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "03",
+    "population": 1800,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "wsK79PM2sc",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.66926,
+      "longitude": 34.57149
+    },
+    "cityId": 295620,
+    "name": "Ashkelon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 105995,
+    "createdAt": "2019-12-13T00:55:21.516Z",
+    "updatedAt": "2019-12-13T00:55:21.516Z"
+  },
+  {
+    "objectId": "1Gw1xsBd1h",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.78199,
+      "longitude": 35.21961
+    },
+    "cityId": 7498240,
+    "name": "West Jerusalem",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLX",
+    "adminCode": "06",
+    "population": 400000,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "OiaexkUwIt",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.87111,
+      "longitude": 34.99081
+    },
+    "cityId": 8199379,
+    "name": "Nof Ayalon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 5000,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "K7dYxrZONV",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.87581,
+      "longitude": 35.12999
+    },
+    "cityId": 8199387,
+    "name": "Beit Horon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1115,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "8P16DAybGF",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.39547,
+      "longitude": 34.75699
+    },
+    "cityId": 8184212,
+    "name": "Rahat",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "01",
+    "population": 19586,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "V2VEqZxT1M",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.11926,
+      "longitude": 35.12896
+    },
+    "cityId": 8199422,
+    "name": "Revava",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1262,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "orPAVUA8vi",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.84876,
+      "longitude": 35.03583
+    },
+    "cityId": 8199385,
+    "name": "Mevo horon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1771,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "gXFLDzws0E",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.99866,
+      "longitude": 34.94559
+    },
+    "cityId": 8428283,
+    "name": "Shoham",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 20740,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "7Mf5BE8FI4",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.14677,
+      "longitude": 34.98622
+    },
+    "cityId": 8199421,
+    "name": "Nirit",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 1132,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "w7MzwmxyIU",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.92609,
+      "longitude": 35.13393
+    },
+    "cityId": 8199393,
+    "name": "Dolev",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1195,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "cBs2JQOVqD",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.0284,
+      "longitude": 34.8796
+    },
+    "cityId": 10227184,
+    "name": "Yehud-Monosson",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "05",
+    "population": 29312,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "5x4y68YYPb",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.91764,
+      "longitude": 35.03222
+    },
+    "cityId": 8199383,
+    "name": "Lapid",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "02",
+    "population": 2497,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "9jcWwXYZmO",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.92973,
+      "longitude": 35.0215
+    },
+    "cityId": 8199382,
+    "name": "Hashmonaim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 2610,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "5K38JfuyvF",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.05503,
+      "longitude": 34.85789
+    },
+    "cityId": 11049562,
+    "name": "Kiryat Ono",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLX",
+    "adminCode": "05",
+    "population": 37791,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "Xjl7xiBlrN",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.93221,
+      "longitude": 35.04416
+    },
+    "cityId": 8199378,
+    "name": "Modiin Ilit",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 64179,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "f5FPDjTdhg",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.91982,
+      "longitude": 35.03669
+    },
+    "cityId": 8199384,
+    "name": "Kfar NaOranim",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 2509,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "MV7XjLwvPV",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.96236,
+      "longitude": 35.06553
+    },
+    "cityId": 8199389,
+    "name": "Na'ale",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1035,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "eZtvdjieAr",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.17409,
+      "longitude": 34.8028
+    },
+    "cityId": 8478264,
+    "name": "Herzliya Pituah",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPLX",
+    "adminCode": "05",
+    "population": 10000,
+    "createdAt": "2019-12-13T00:55:22.334Z",
+    "updatedAt": "2019-12-13T00:55:22.334Z"
+  },
+  {
+    "objectId": "SbUpFYNVPO",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.93927,
+      "longitude": 35.13539
+    },
+    "cityId": 8199392,
+    "name": "Talmon",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 2797,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "yrzHQnqouR",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 31.84927,
+      "longitude": 35.16106
+    },
+    "cityId": 8199390,
+    "name": "Giv'on HaHadasha",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "",
+    "population": 1097,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  },
+  {
+    "objectId": "dPeQJaGwin",
+    "location": {
+      "__type": "GeoPoint",
+      "latitude": 32.1065,
+      "longitude": 35.18449
+    },
+    "cityId": 8199394,
+    "name": "Ariel",
+    "country": "Israel",
+    "countryCode": "IL",
+    "featureCode": "PPL",
+    "adminCode": "06",
+    "population": 17668,
+    "createdAt": "2019-12-13T00:55:22.333Z",
+    "updatedAt": "2019-12-13T00:55:22.333Z"
+  }
+]
+}
